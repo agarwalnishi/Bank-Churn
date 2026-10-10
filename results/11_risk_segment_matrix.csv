@@ -1,0 +1,6 @@
+risk_segment,customers,churned,churn_rate_pct,lost_deposits,deposits_still_at_risk
+1. 3+ products,326,280,85.89,24511667.0,1184236.0
+2. 45+ and inactive,922,593,64.32,53120109.0,24616613.0
+3. Germany and inactive,876,211,24.09,25215142.0,79141108.0
+4. Other inactive,2867,332,11.58,25371755.0,151380099.0
+"5. Active, low risk",5009,621,12.4,57369422.0,322948742.0

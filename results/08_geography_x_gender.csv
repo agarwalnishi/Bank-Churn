@@ -1,0 +1,7 @@
+Geography,Gender,customers,churn_rate_pct,rank_in_country,diff_vs_country_avg_pp
+France,Female,2261,20.34,1,3.82
+France,Male,2753,12.71,2,-3.81
+Germany,Female,1193,37.55,1,4.87
+Germany,Male,1316,27.81,2,-4.87
+Spain,Female,1089,21.21,1,4.05
+Spain,Male,1388,13.11,2,-4.05

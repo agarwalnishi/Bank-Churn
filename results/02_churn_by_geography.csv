@@ -1,0 +1,4 @@
+Geography,customers,churned,churn_rate_pct,lost_deposits,churn_rank,share_of_lost_deposits_pct
+Germany,2509,814,32.44,97973915.53,1,52.79
+Spain,2477,413,16.67,29948014.56,2,16.14
+France,5014,810,16.15,57666164.54,3,31.07

@@ -1,0 +1,3 @@
+status,customers,avg_age,avg_credit_score,avg_balance,avg_salary,avg_products,pct_active,pct_zero_balance,pct_male
+Churned,2037,44.8,645.0,91109.0,101466.0,1.48,36.1,24.5,44.1
+Retained,7963,37.4,652.0,72745.0,99738.0,1.54,55.5,39.1,57.3

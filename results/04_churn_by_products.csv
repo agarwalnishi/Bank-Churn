@@ -1,0 +1,5 @@
+NumOfProducts,customers,churned,churn_rate_pct,risk_label
+1,5084,1409,27.71,Moderate risk
+2,4590,348,7.58,Low risk
+3,266,220,82.71,High risk
+4,60,60,100.0,High risk
